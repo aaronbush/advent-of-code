@@ -6,5 +6,5 @@ BEGIN {
 	SUM += mass
 }
 END {
-	printf SUM
+	print SUM
 }
